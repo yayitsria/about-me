@@ -1,0 +1,11 @@
+.emphasis {
+    color: #4B5842;
+}
+.portrait {
+    width: 40%;
+    padding-bottom: 3%;
+}
+.landscape {
+    height: 40%;
+    padding-bottom: 3%;
+}
